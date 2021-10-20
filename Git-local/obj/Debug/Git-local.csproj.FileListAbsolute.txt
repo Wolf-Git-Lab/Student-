@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Git-local\Git-local\bin\Debug\Git-local.exe.config
+C:\Users\Asus\source\repos\Git-local\Git-local\bin\Debug\Git-local.exe
+C:\Users\Asus\source\repos\Git-local\Git-local\bin\Debug\Git-local.pdb
+C:\Users\Asus\source\repos\Git-local\Git-local\obj\Debug\Git-local.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Git-local\Git-local\obj\Debug\Git-local.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Git-local\Git-local\obj\Debug\Git-local.exe
+C:\Users\Asus\source\repos\Git-local\Git-local\obj\Debug\Git-local.pdb
