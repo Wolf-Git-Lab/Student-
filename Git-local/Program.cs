@@ -13,6 +13,8 @@ namespace Git_local
             Student student = new Student("Миша", 20);
             Console.WriteLine(student);
             Console.WriteLine("Hello word");
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
