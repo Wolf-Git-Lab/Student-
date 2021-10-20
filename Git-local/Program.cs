@@ -10,6 +10,8 @@ namespace Git_local
     {
         static void Main(string[] args)
         {
+            Student student = new Student("Миша", 20);
+            Console.WriteLine(student);
             Console.WriteLine("Hello word");
         }
     }
